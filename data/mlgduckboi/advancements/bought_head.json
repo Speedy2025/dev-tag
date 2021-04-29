@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "item": {
+          "item": "minecraft:player_head"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "mlgduckboi:marketplace/content/main"
+  }
+}

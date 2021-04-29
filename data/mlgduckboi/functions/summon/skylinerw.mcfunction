@@ -1,0 +1,3 @@
+summon bee ~ ~1 ~ {Silent:1b,Invulnerable:1b,Tags:["dinnerbone","mlg_bee"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:2147483647,ShowParticles:0b}],Passengers:[{id:"minecart",Invulnerable:1b,Tags:["mlg_mc"],Passengers:[{id:"silverfish",ActiveEffects:[{Id:14b,Amplifier:1b,Duration:2147483647,ShowParticles:0b}],Invulnerable:1b,NoAI:1b,Silent:1b,Tags:["mlg_mc"],Passengers:[{id:"minecart",Tags:["mlg_mc"],Invulnerable:1b,Passengers:[{id:"sheep",Invulnerable:1b,CustomName:'"Skylinerw"',Tags:["dinnerbone","mlg_sky"]}]}]}]}]}
+tellraw @a ["",{"text":"Skylinerw joined the game","color":"yellow"}]
+spreadplayers ~ ~ 0 5 true @e[tag=mlg_bee]
