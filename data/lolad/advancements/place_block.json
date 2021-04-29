@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "place": {
+            "trigger": "placed_block",
+            "conditions": {
+                "player": [{
+                    "condition": "inverted",
+                    "term": {
+                        "condition": "entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "player": {
+                                "gamemode": "creative"
+                            }
+                        }
+                    }
+                }]
+            }
+        }
+    },
+    "rewards": {
+        "function": "lolad:place"
+    }
+}
