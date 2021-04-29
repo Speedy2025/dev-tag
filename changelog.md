@@ -1,4 +1,15 @@
+
+
+# v1.3
+
+## Ancientkingg
+
+- Ender Pearls have become sentient and will now sometimes refuse to teleport you to the right destination and will instead teleport you somewhere around it or maybe in the end or something. It depends on their mood
+- Mobs sometimes just explode
+- For some reason endermen don't like snowballs, so they just explode
+
 # v1.2
+
 ## rx97
 
 * Holding a stick in your offhand gives you the **force**
