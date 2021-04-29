@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "speedy2025:main/tick",
-        "doublefelix:tick"
+        "doublefelix:tick",
+        "rx.tag:tick"
     ]
 }
