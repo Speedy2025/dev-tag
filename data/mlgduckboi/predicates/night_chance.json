@@ -1,0 +1,13 @@
+[
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.001
+  },
+  {
+    "condition": "minecraft:time_check",
+    "value": {
+      "min": 13188,
+      "max": 22812
+    }
+  }
+]

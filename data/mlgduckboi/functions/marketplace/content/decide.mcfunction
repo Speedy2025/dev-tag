@@ -1,0 +1,1 @@
+execute as @a[tag=mlg_bought] run function mlgduckboi:marketplace/content/asplayer

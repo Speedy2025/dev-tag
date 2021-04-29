@@ -1,3 +1,18 @@
+# v1.5
+
+## MLGDuckboi
+
+- Added Minecoins
+- Added Marketplace: to go or leave use /trigger marketplace
+- Added Herobrine (omg * haunted * 3am challenge super spooky!1!!11!)
+- Added Skylinerw
+      - Spouts wisdom
+      - Destroys rails because they disrespect his minecarts
+- Parity: Added loot pig
+- You can now throw all fish, except tropical fish (they suck)
+- Eating pufferfish activates godmode, but overdosing has side effects
+- Removed sunflowers, sort of
+
 # v1.4
 
 ## lolad
