@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "speedy2025:main/tick"
+        "speedy2025:main/tick",
+        "doublefelix:tick"
     ]
 }
