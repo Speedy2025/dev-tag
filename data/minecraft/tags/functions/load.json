@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "speedy2025:main/load"
+        "speedy2025:main/load",
+        "doublefelix:load"
     ]
 }

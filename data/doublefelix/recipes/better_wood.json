@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:logs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:diamond_ore",
+        "count": 1
+    }
+}
