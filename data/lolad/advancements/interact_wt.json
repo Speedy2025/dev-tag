@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "interact": {
+            "trigger": "player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": "wandering_trader"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "lolad:interact_wt"
+    }
+}

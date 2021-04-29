@@ -1,4 +1,11 @@
+# v1.4
 
+## lolad
+
+- Wandering Traders have become evil, so don't attack or trade with them
+- Removed Diamond Ore
+- Steve has become very bad at placing blocks (but is somehow okay in creative mode)
+- All mobs are Dinnerbone
 
 # v1.3
 

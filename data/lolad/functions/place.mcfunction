@@ -1,0 +1,1 @@
+execute anchored eyes positioned ^ ^ ^ run function lolad:place_raycast
