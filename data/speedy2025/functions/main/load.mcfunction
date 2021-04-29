@@ -1,0 +1,1 @@
+scoreboard objectives add dt1.spd.ingots dummy [{"text":"dt1.spd.ingots","color":"dark_gray"}]
