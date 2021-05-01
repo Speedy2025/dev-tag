@@ -8,6 +8,7 @@ execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> What 
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Hello!"}
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Perhaps"}
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Not anymore"}
+execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Skylinerw was here"}
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Because-"}
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> UNLIMITED POWER"}
 execute if predicate mlgduckboi:chance run tellraw @a {"text":"<Skylinerw> Why did you say that name?"}
